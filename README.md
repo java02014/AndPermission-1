@@ -24,13 +24,13 @@ AndPermission.with(this)
   .start();
 ```
 
-For documentation and additional information see [the website](https://yanzhenjie.com/AndPermission).
+For documentation and additional information see [the website](https://github.com/zmxmu/AndPermission).
 
 ## Download
 It only supports androidx, add dependencies in your gradle:
 
 ```groovy
-implementation 'com.yanzhenjie:permission:2.0.3'
+implementation 'com.ihuman:permission:1.0.0'
 ```
 
 AndPermission requires at minimum Android 4.0(Api level 14) .

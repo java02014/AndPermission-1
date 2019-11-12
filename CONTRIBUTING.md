@@ -7,4 +7,4 @@ The following is a set of guidelines for contributing to AndPermission. These ar
 2. Please keep AndPermission the existing code style, not according to your habits.
 3. Just modify the code you are sure need to be optimized, not all the different code from your ideas.
 4. Before launching a pull request, you should test your commit code adequately.
-5. Please commit new code to the [dev](https://github.com/yanzhenjie/AndPermission/tree/dev) branch instead of the master branch.
+5. Please commit new code to the [dev](https://github.com/zmxmu/AndPermission/tree/dev) branch instead of the master branch.

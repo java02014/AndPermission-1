@@ -4,7 +4,7 @@ ext {
                maven      : 'com.github.dcendents.android-maven',
                bintray    : 'com.jfrog.bintray']
 
-    android = [applicationId    : "com.yanzhenjie.permission.sample",
+    android = [applicationId    : "com.ihuman.permission.sample",
                compileSdkVersion: 29,
                buildToolsVersion: "29.0.2",
                minSdkVersion    : 14,
@@ -14,10 +14,10 @@ ext {
 
     bintray = [version       : "2.0.3",
 
-               siteUrl       : 'https://github.com/yanzhenjie/AndPermission',
-               gitUrl        : 'https://github.com/yanzhenjie/AndPermission.git',
+               siteUrl       : 'https://github.com/zmxmu/AndPermission',
+               gitUrl        : 'https://github.com/zmxmu/AndPermission.git',
 
-               group         : "com.yanzhenjie",
+               group         : "com.ihuman",
 
                packaging     : 'aar',
                name          : 'Permission',
@@ -26,9 +26,9 @@ ext {
                licenseName   : 'The Apache Software License, Version 2.0',
                licenseUrl    : 'http://www.apache.org/licenses/LICENSE-2.0.txt',
 
-               developerId   : 'yanzhenjie',
-               developerName : 'yanzhenjie',
-               developerEmail: 'im.yanzhenjie@gmail.com',
+               developerId   : 'ihuman',
+               developerName : 'zhengmin',
+               developerEmail: '14013588@qq.com',
 
                binrayLibrary : "permission",
                bintrayRepo   : "maven",

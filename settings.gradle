@@ -1,1 +1,1 @@
-include ':permission', ':sample'
+include ':IHumanSDKPermission', ':sample'
